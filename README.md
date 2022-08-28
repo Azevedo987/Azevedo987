@@ -2,7 +2,7 @@
 
 - 🌱 Estudante da ETEC em Desenvolvimento de Sistemas
 - 👨‍💻 Futuro programador
-- 😄 Pronouns: Ele/dele
+- 😄 Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/Azevedo987">
