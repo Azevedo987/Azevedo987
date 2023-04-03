@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Azevedo 🦉
 
-- 🌱 Estudante da ETEC em Desenvolvimento de Sistemas
+- 🌱 Estudante Frontend
 - 👨‍💻 Futuro programador
 - 😄 Pronomes: Ele/dele
 
